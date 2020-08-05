@@ -1,6 +1,6 @@
 ## Install
 
-Clone the repository or manually download.
+Clone the repository or download and unzip.
 
 ## Usage
 
